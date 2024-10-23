@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Nav from '@/sections/nav';
 import Hero from '@/sections/hero';
 import About from '@/sections/about';

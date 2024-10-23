@@ -13,7 +13,7 @@ const Hero = () => {
           <p className="text-lg">
             Take the first step towards better mental health. Explore helpful
             resources and compassionate therapy in a safe, nonjudgmental space.
-            We're here to listen and guide you to a healthier, happier you.
+            Were here to listen and guide you to a healthier, happier you.
           </p>
         </div>
         <div className="flex flex-row items-center px-6 py-4 gap-2 text-background border-4 border-background bg-white w-fit rounded-lg hover:border-4 hover:border-white hover:bg-background hover:text-white cursor-pointer">

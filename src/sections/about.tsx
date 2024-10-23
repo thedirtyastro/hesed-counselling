@@ -24,9 +24,9 @@ const About = () => {
               Hi, I'm Daniel.
             </div>
             <div className="text-sm tracking-wide md:pr-5">
-              As a dedicated therapist, I’m committed to supporting your mental
+              As a dedicated therapist, Im committed to supporting your mental
               well-being. With a focus on compassion and understanding, I offer
-              personalized therapy to help you navigate life’s challenges and
+              personalized therapy to help you navigate lifes challenges and
               achieve personal growth. My goal is to create a safe,
               nonjudgmental space where you can feel heard and supported.
             </div>
