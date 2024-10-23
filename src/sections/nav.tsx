@@ -1,5 +1,4 @@
 "use client";
-import Image from "next/image";
 import React, { useState } from "react";
 import Menu from "../../public/images/menu-burger.svg"
 import Cross from "../../public/images/cross.svg"
