@@ -21,7 +21,7 @@ const About = () => {
         <div className="md:w-[60%] px-6 flex flex-col h-full justify-between gap-4">
           <div className="flex flex-col gap-6  mt-10">
             <div className="text-2xl md:text-4xl font-semibold ">
-              Hi, I'm Daniel.
+              Hi, Im Daniel.
             </div>
             <div className="text-sm tracking-wide md:pr-5">
               As a dedicated therapist, Im committed to supporting your mental
