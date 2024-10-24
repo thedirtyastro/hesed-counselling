@@ -13,9 +13,9 @@ const why = () => {
       <div className="md:w-[60%]">
        
         <div className="p-10 md:p-20 flex flex-col gap-10">
-          <div className="">
+          <div >
             Hezed Counselling follows an innovative, tailored approach, so your
-            mind receives undivided attention and care. What's more? Our
+            mind receives undivided attention and care. What is more? Our
             offerings are affordable and accessible to all!
           </div>
           <div className="grid grid-cols-2 gap-6 md:gap-8 ">

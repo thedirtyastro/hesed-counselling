@@ -10,7 +10,7 @@ interface Props {
   toggleFaq: () => void;
 }
 
-const faqsC: React.FC<Props> = ({ question, answer, isOpen, toggleFaq }) => {
+const FaqsC: React.FC<Props> = ({ question, answer, isOpen, toggleFaq }) => {
   return (
     <div className="flex flex-col bg-[#D6F3EF] rounded-md text-[#444444]">
       <div className="flex flex-row justify-between p-4">
@@ -34,4 +34,4 @@ const faqsC: React.FC<Props> = ({ question, answer, isOpen, toggleFaq }) => {
   );
 };
 
-export default faqsC;
+export default FaqsC;
