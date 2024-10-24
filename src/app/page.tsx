@@ -2,6 +2,8 @@ import Nav from '@/sections/nav';
 import Hero from '@/sections/hero';
 import About from '@/sections/about';
 import Services from '@/sections/services';
+import Why from '@/sections/why';
+
 
 export default function Home() {
   return (
@@ -10,6 +12,7 @@ export default function Home() {
     <Hero />
     <About />
     <Services />
+    <Why />
   </div>
   );
 }

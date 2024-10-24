@@ -1,8 +1,8 @@
 import React from 'react';
-import Image from 'next/image';
+import Image, { StaticImageData } from 'next/image';
 
 interface CardProps {
-    imageSrc: string;
+  imageSrc: string | StaticImageData; // Accept both string and StaticImageData types
     heading: string;
     description: string;
   }
