@@ -5,3 +5,9 @@
 .poppins{
   font-family: var(--font-poppins);
 }
+
+.input{
+  padding: 12px;
+  border-radius: 6px;
+  background-color: #dddddd;
+}

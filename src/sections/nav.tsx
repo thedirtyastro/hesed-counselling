@@ -35,13 +35,13 @@ const Nav = () => {
       </div>
 
       {/* Links for desktop */}
-      <div className="hidden md:flex flex-row gap-24 text-black cursor-pointer">
+      <div className="hidden md:flex flex-row gap-16 text-black">
         {["Home", "About", "Services", "Contact"].map((item) => (
           <span
             key={item}
             className={`${
               active === item
-                ? "text-background underline font-semibold"
+                ? "text-background underline "
                 : "hover:text-background "
             } cursor-pointer`}
             onClick={() => handleMenuClick(item)}
