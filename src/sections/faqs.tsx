@@ -1,8 +1,8 @@
 "use client";
 import React, { useState } from "react";
-import Faqs from "@/components/faqsC";
+import FaqsCard from "@/components/faqsC";
 
-const faqs = () => {
+const Faqs = () => {
   const [openIndex, setOpenIndex] = useState<number | null>(null); // State to track the open FAQ
 
   // List of FAQs
@@ -51,7 +51,7 @@ const faqs = () => {
 
       <div className=" flex flex-col gap-2  md:w-[70%]">
         {faqData.map((faq, index) => (
-          <Faqs
+          <FaqsCard
             key={index}
             question={faq.question}
             answer={faq.answer}
@@ -64,4 +64,4 @@ const faqs = () => {
   );
 };
 
-export default faqs;
+export default Faqs;

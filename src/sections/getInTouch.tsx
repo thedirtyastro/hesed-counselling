@@ -13,7 +13,7 @@ const getInTouch = () => {
           call back by completing the form below. <br/>
           <br/> Feel free to call me for a
           chat to see how I might help you and to find out more about how my
-          approach works. I'd be happy to answer any questions you may have.
+          approach works. I had be happy to answer any questions you may have.
           <br/>
           <br/>
           Please leave a message if the phone goes to voicemail, and I will
