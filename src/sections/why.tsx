@@ -7,14 +7,14 @@ const why = () => {
   return (
     <div className=" bg-background ">
        <div className=" md:rounded-br-[999px] py-10 lg:px-20 flex bg-white text-background text-center text-5xl font-semibold ">
-          Why Hezed Counselling
+          Why Hesed Counselling
         </div>
         <div className=" flex flex-col-reverse  md:flex-row justify-center items-center">
       <div className="md:w-[60%]">
        
         <div className="p-10 md:p-20 flex flex-col gap-10">
           <div >
-            Hezed Counselling follows an innovative, tailored approach, so your
+            Hesed Counselling follows an innovative, tailored approach, so your
             mind receives undivided attention and care. What is more? Our
             offerings are affordable and accessible to all!
           </div>

@@ -19,7 +19,7 @@ const Nav = () => {
   return (
     <div className="h-24 w-full text-base flex flex-row justify-between items-center px-12 sticky top-0 bg-white shadow-lg">
       <div className="text-xl font-semibold text-background leading-[25px]">
-        Hezed <br /> Counselling
+        Hesed <br /> Counselling
       </div>
 
       {/* Hamburger / Close Icon for mobile */}

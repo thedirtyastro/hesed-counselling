@@ -10,11 +10,11 @@ const footer = () => {
     <div className="bg-background p-14 flex flex-col gap-10 md:flex-row justify-between">
       <div className="flex flex-col md:w-[30%]">
         <div>
-          <span className="text-2xl font-semibold">Hezed Counselling</span>
+          <span className="text-2xl font-semibold">Hesed Counselling</span>
           <div className="h-[2px] mt-1 bg-white"></div>
         </div>
         <div className="py-4">
-          Hezed Counselling offers you affordable, confidentialand solution
+          Hesed Counselling offers you affordable, confidentialand solution
           oriented online counselling & online therapy.
         </div>
         <div className="flex flex-row py-2 justify-between">
@@ -57,11 +57,13 @@ const footer = () => {
             </div>
             <div className="flex flex-row gap-2">
               <Mail />
+              <p className="underline">
               <a
                 href="mailto:sarukhanmuthuraman@gmail.com"
-                className="underline">
+                >
                 Send email
               </a>
+              </p>
             </div>
             <span className="mt-2 text-xs">
               Dont hesitate to reach us, we are always happy to help.
